@@ -9,9 +9,9 @@ Per ogni istruzione vengono eseguite diverse **operazioni**:
 
 
 
-Istruzione (comando): *“Vammi a prendere un caffé”*
+**Istruzione** (comando): *“Vammi a prendere un caffé”*
 
-Operazioni:
+**Operazioni**:
 - *Mi alzo*  
 - *Mi dirigo verso la porta*  
 - *Apro la porta*  
